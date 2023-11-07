@@ -1,4 +1,4 @@
-# AppEnem 📚
+# App Enem 📚
 
 ## Sobre o projeto
 - Aplicativo que ajuda estudantes a estudar para o ENEM, com dicas, simulados e resumos.
@@ -8,8 +8,8 @@
 | ------------- | ------------- | ------------- |
 | <img src="https://i.pinimg.com/736x/c9/c2/1a/c9c21a08ac5a12fe00d24fc41abf4155.jpg" alt="img4"/> | <img src="https://i.pinimg.com/736x/26/de/75/26de754430e6e54a269f70238644e2de.jpg" alt="img5"/> 
 
-- Imgm 1: Tela inicial, você pode entrar no aplicativo (caso já tenha uma conta cadastrada) ou criar conta;
-- Imgem 2: Caso clique em 'Criar conta', como apresentado na imagem 1, você será direcionado para essa tela. 
+- Imagem 1: Tela inicial, você pode entrar no aplicativo (caso já tenha uma conta cadastrada) ou criar conta;
+- Imagem 2: Caso clique em 'Criar conta', como apresentado na imagem 1, você será direcionado para essa tela. 
 - Imagem 3: Caso Clique em 'Entrar', como apresentado na imagem 1, você será direcionado para essa tela. Nela, você decide o que deseja estudar.
   - O botão 'Dicas' direcionará as dicas da matéria desejada, o botão 'Simulado' direcionará a um pequeno simulado para estudo.
   - Em 'Redação', o botão 'Repertórios' irá para frases, obras, leis, entre outros, que ajudará a obter conhecimento sobre o mais diversos temas. O botão 'Esqueleto' mostrará um modelo pronto de redação para adaptar.
