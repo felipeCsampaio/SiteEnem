@@ -36,6 +36,6 @@
 - Android 8.0
   
 ## Autores 
-- Felipe Sampaio - 
+- Felipe Sampaio - https://github.com/felipeCsampaio
 - Vitória Reis - https://github.com/rmviitoria
 
